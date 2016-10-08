@@ -1,0 +1,24 @@
+GetLength Z
+PutItem adam
+PutItem alice
+PutItem aziz
+PutItem atunzu
+PutItem aman
+PutItem cat
+PrintList
+PutItem jerry
+PrintList
+GetItem cat
+GetItem jerry
+IsFull
+DeleteItem adam
+IsFull
+PutItem lakshay
+DeleteItem cat
+PrintList
+MakeEmpty
+ResetList
+PrintList
+GetLength A
+GetNextItem J
+Quit
