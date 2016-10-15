@@ -11,7 +11,7 @@
   <li>MakeEmpty: Empties all linked lists so no nodes are present.</li>
   <li>ResetList: Resets the configuration of GetNextItem.</li>
   <li>GetNextItem J: Returns the next item in the linked list for 'J'</li>
-  <li>Quit: Quits the program.<li>
+  <li>Quit: Quits the program.</li>
 </ul>
 
 <p><strong>LICENSE IS ATTACHED IF YOU WANT TO ADD TO THIS PROGRAM</strong></p>
